@@ -1,0 +1,28 @@
+{
+  "name": "@dew/ui",
+  "version": "0.0.1",
+  "description": "UI components for websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swaana/dew-ui.git"
+  },
+  "keywords": [
+    "Vue",
+    "Dew",
+    "Swaana",
+    "UI",
+    "GUI",
+    "html",
+    "css"
+  ],
+  "author": "Swaana Snorradottir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swaana/dew-ui/issues"
+  },
+  "homepage": "https://github.com/Swaana/dew-ui#readme"
+}
