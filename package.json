@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Swaana/dew-ui.git"
+    "url": "https://github.com/dew-webdesign/dew-ui.git"
   },
   "keywords": [
     "Vue",
